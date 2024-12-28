@@ -1,0 +1,17 @@
+.foot {
+  background-color: #28282b;
+
+  border-radius: 25px;
+}
+.foott {
+  margin-top: 20%;
+}
+.sociall {
+  width: 30%;
+  height: 20%;
+  background-color: #f2f2f2;
+  border: 1px solid black;
+  border-radius: 25px;
+  margin: 1% auto;
+  padding: 0.5%;
+}

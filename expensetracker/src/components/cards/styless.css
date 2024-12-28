@@ -1,0 +1,28 @@
+.cardsssection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  margin: 3% 0;
+}
+.mycard {
+  width: 30%;
+  /* box-shadow: 0.5px 0.5px 1px 0.5px rgb(255, 255, 255); */
+  border-radius: 25px !important;
+  color: white !important ;
+  background-color: #28282b !important;
+}
+
+.MuiCardContent-root {
+  padding: 0;
+}
+.MuiCardHeader-root {
+  padding: 3%;
+}
+#btn {
+  width: 100%;
+  color: white;
+
+  border-radius: 25px !important;
+}

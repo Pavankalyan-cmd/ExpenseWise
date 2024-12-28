@@ -1,0 +1,8 @@
+.input {
+  padding: 0 !important ;
+  border: none;
+}
+.transaction {
+  display: flex;
+  justify-content: space-between;
+}
